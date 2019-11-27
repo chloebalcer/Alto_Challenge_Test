@@ -2,8 +2,7 @@
 
 ### To start backend server from backend directory
 
-``` $ python manage.py runserver
-```
+``` $ python manage.py runserver ```
 
 ### To start frontend development, run :
 
